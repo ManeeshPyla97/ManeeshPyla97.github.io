@@ -143,4 +143,3 @@ h2 {
 .links a:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .pub .title { color: var(--accent); }
 footer.site { border-top: 3px solid var(--accent2); }
-}
