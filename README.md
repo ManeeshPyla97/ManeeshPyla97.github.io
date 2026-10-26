@@ -1,4 +1,4 @@
-# Maneesh Pyla: personal research website
+# Maneesh Pyla: Personal Research Website
 
 Static site (plain HTML + CSS, no build step).
 
