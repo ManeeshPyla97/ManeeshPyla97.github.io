@@ -240,3 +240,10 @@ footer.site {
   .hero .links { justify-content: center; }
   nav a { padding: 4px 9px; }
 }
+
+/* THEME: Forest green & gold */
+:root{--bg:#f7f6f0;--navy:#12372a;--navy2:#1f5a42;--accent:#2f6f4f;--accent2:#c8a24a;--fg:#1a2420;--line:#e2e0d2}
+.hero{background:radial-gradient(800px 300px at 100% 0%,rgba(200,162,74,.4),transparent 60%),linear-gradient(135deg,#12372a,#1f5a42 70%,#2f6f4f)}
+@media (prefers-color-scheme: dark){:root{--bg:#0d1612;--card:#14221b;--line:#243a2e;--accent:#6ee7a8;--accent2:#e6c36a;--navy:#0a1d15}}
+
+
